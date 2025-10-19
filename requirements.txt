@@ -1,0 +1,12 @@
+# Python ETL Connector Dependencies
+# SSN College - Software Architecture Assignment
+
+# Core dependencies
+requests==2.31.0          # HTTP requests for API calls
+pymongo==4.6.1           # MongoDB Python driver
+python-dotenv==1.0.0     # Environment variable management
+
+# Optional but recommended
+certifi==2023.11.17      # SSL certificate verification
+urllib3==2.1.0           # HTTP client
+charset-normalizer==3.3.2  # Character encoding detection
